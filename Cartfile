@@ -1,2 +1,2 @@
-github "attaswift/BigInt" == 5.0.0
+github "attaswift/BigInt" "v5.0.0"
 github "attaswift/SipHash" "v1.2.2"
